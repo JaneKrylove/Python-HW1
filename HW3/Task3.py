@@ -22,3 +22,4 @@ def reverse(s: str):
 
 txt = input('Enter string: ')
 reverse(txt)
+
